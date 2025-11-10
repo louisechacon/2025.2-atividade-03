@@ -7,11 +7,11 @@
 - [X] criar link para atividades abaixo
   - [X] criar link para o arquivo tabelas.html (atividade 3)
   - [X] criar link para o arquivo cards.html (atividade 4)
-  - [ ] criar link para o arquivo landingpage.html (atividade 5)
+  - [X] criar link para o arquivo landingpage.html (atividade 5)
   - [ ] criar link para o arquivo replica.html (atividade 6)
 
 ## Atividades
 - [X] [Atividade 03 - Tabelas](tabelas.md)
 - [X] [Atividade 04 - Cards](cards.md)
-- [ ] [Atividade 05 - landing page](landingpage.md)
+- [X] [Atividade 05 - landing page](landingpage.md)
 - [ ] [Atividade 06](replica.md)
