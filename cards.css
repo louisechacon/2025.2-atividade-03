@@ -20,7 +20,7 @@ body {
     text-align: center;
     color: #333;
     margin-bottom: 30px;
-    font-size: 2.5em;
+    font-size: 40px;
 }
 
 .card {
@@ -38,19 +38,19 @@ body {
 }
 
 .card-header {
-    background: linear-gradient(135deg, #e5bad3 0%, #dd6eaf 100%);
+    background-color: #dd6eaf;
     color: white;
     padding: 20px;
     text-align: center;
 }
 
 .card-header h2 {
-    font-size: 2em;
+    font-size: 32px;
     margin-bottom: 10px;
 }
 
 .card-header .professores {
-    font-size: 1.1em;
+    font-size: 17px;
     font-style:normal;
     opacity: 0.9;
 }
@@ -63,7 +63,7 @@ body {
     color: #dd6eaf;
     margin-top: 15px;
     margin-bottom: 10px;
-    font-size: 1.3em;
+    font-size: 21px;
 }
 
 .card-content p {
@@ -92,7 +92,7 @@ body {
     margin: 5px;
     border-radius: 20px;
     border-left: none;
-    font-size: 0.9em;
+    font-size: 14px;
 }
 
 .card-footer {
@@ -104,7 +104,7 @@ body {
 .card-footer h3 {
     color: #333;
     margin-bottom: 10px;
-    font-size: 1.2em;
+    font-size: 19px;
 }
 
 .card-footer p {
@@ -119,11 +119,11 @@ body {
 
 @media (max-width: 768px) {
     .container h1 {
-        font-size: 2em;
+        font-size: 32px;
     }
     
     .card-header h2 {
-        font-size: 1.5em;
+        font-size: 24px;
     }
     
     .tecnologias li {
