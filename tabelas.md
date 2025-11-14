@@ -13,7 +13,7 @@ Você deve criar uma tabela em HTML5 que apresente informações sobre disciplin
 
 Abaixo está um exemplo completo de como criar e estilizar a tabela para a disciplina de Web Design.
 
-### Código HTML
+### Código HTML `tabelas.html`
 
 ```html
 <!DOCTYPE html>
@@ -22,7 +22,7 @@ Abaixo está um exemplo completo de como criar e estilizar a tabela para a disci
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Tabela de Disciplinas</title>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="tabelas.css">
 </head>
 <body>
     <h1>Disciplinas do Curso</h1>
@@ -60,7 +60,7 @@ Abaixo está um exemplo completo de como criar e estilizar a tabela para a disci
 </html>
 ```
 
-### Código CSS (style.css)
+### Código CSS (tabelas.css)
 
 ```css
 * {
@@ -141,11 +141,11 @@ td ul li {
 
 ## Instruções para Realizar a Atividade
 
-- [X] **Crie um arquivo HTML** chamado `disciplinas.html`
-- [X] **Crie um arquivo CSS** chamado `disciplinas.css`
-- [X] **Crie a estrutura inicial do HTML 5** no arquivo `disciplinas.html`
-- [X] **Defina o título da página** coloque a identificação no arquivo `disciplinas.html`. Lembre de atualizar também o `title`.
-- [X] **Copie o código CSS** fornecido acima para o arquivo `disciplinas.css`
+- [X] **Crie um arquivo HTML** chamado `tabelas.html`
+- [X] **Crie um arquivo CSS** chamado `tabelas.css`
+- [X] **Crie a estrutura inicial do HTML 5** no arquivo `tabelas.html`
+- [X] **Defina o título da página** coloque a identificação no arquivo `tabelas.html`. Lembre de atualizar também o `title`.
+- [X] **Copie o código CSS** fornecido acima para o arquivo `tabelas.css`
 - [X] **Abra o arquivo HTML** em seu navegador para visualizar a tabela
 - [X] **Experimente modificar** as cores, tamanhos e estilos para personalizar sua tabela
 - [X] **Adicione as disciplinas**: matemática discreta, programação de computadores , e sistemas digitais
