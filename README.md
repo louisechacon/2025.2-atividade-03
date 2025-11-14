@@ -8,10 +8,10 @@
   - [X] criar link para o arquivo tabelas.html (atividade 3)
   - [X] criar link para o arquivo cards.html (atividade 4)
   - [X] criar link para o arquivo landingpage.html (atividade 5)
-  - [ ] criar link para o arquivo replica.html (atividade 6)
+  - [X] criar link para o arquivo replica.html (atividade 6)
 
 ## Atividades
 - [X] [Atividade 03 - Tabelas](tabelas.md)
 - [X] [Atividade 04 - Cards](cards.md)
 - [X] [Atividade 05 - landing page](landingpage.md)
-- [ ] [Atividade 06 - replica do gemini](replica.md)
+- [X] [Atividade 06 - replica do gemini](replica.md)
