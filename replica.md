@@ -577,7 +577,7 @@ body {
 - [X] Adicionar ícone de busca à esquerda
 - [X] Inserir logo/título "Gemini"
 - [X] Criar botão "Faça upgrade para o Google AI Plus" com ícone
-- [ ] Adicionar foto de perfil do usuário
+- [X] Adicionar foto de perfil do usuário
 
 ### Estrutura HTML - Área Principal
 - [X] Criar mensagem de boas-vindas "Olá, Leonardo"
@@ -589,9 +589,9 @@ body {
 
 ### Estilização CSS - Layout Geral
 - [X] Configurar display flex para body (sidebar + conteúdo)
-- [ ] Definir largura fixa para sidebar (280px)
-- [ ] Configurar área principal para ocupar espaço restante
-- [ ] Aplicar overflow adequado em cada seção
+- [X] Definir largura fixa para sidebar (280px)
+- [X] Configurar área principal para ocupar espaço restante
+- [X] Aplicar overflow adequado em cada seção
 
 ### Estilização CSS - Cores e Tipografia
 - [X] Definir variáveis CSS para cores principais
@@ -628,7 +628,7 @@ body {
 
 ### Refinamentos e Detalhes
 - [X] Ajustar espaçamentos (padding e margin) para corresponder ao design
-- [ ] Verificar alinhamento de todos os ícones
+- [X] Verificar alinhamento de todos os ícones
 - [X] Garantir consistência de bordas arredondadas
 - [X] Adicionar sombras sutis onde apropriado
 - [X] Validar cores com a imagem original
